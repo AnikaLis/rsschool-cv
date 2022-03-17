@@ -50,3 +50,13 @@ function towelSort (matrix) {
   return result;
 }
 ```
+
+### **Education:**
+* Linguistics University of Nizhny Novgorod
+    + Management of organisation
+* Construction College of Nizhniy Novgorod
+    + Hotel and tourism business
+
+### **Languages:**
+* Russian - native speaker
+* English - B2 (Upper Intermediate)
