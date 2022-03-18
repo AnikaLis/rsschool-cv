@@ -51,11 +51,16 @@ function towelSort (matrix) {
 }
 ```
 
+### **Projects:**
+1. [Portfolio](https://rolling-scopes-school.github.io/anikalis-JSFEPRESCHOOL/portfolio/)
+2. [Eco-sounds](https://rolling-scopes-school.github.io/anikalis-JSFEPRESCHOOL/eco-sounds/)
+3. [Image-galery](https://rolling-scopes-school.github.io/anikalis-JSFEPRESCHOOL/image-galery/)
+4. [Memory-game](https://rolling-scopes-school.github.io/anikalis-JSFEPRESCHOOL/mamory-game/)
+
 ### **Education:**
+* RS Schools Course «JavaScript/Front-end. Stage 0»
 * Linguistics University of Nizhny Novgorod
-    + Management of organisation
 * Construction College of Nizhniy Novgorod
-    + Hotel and tourism business
 
 ### **Languages:**
 * Russian - native speaker
